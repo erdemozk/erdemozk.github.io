@@ -2799,8 +2799,8 @@ input[type="button"]:disabled,
 /* Main */
 
 #main {
-	margin-left: 30%;
-	max-width: 70em;
+	margin-left: 32%;
+	max-width: 65em;
 	padding: 6em 4em 4em 4em;
 	width: calc(100% - 35%);
 }
